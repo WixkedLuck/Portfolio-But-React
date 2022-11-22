@@ -29,7 +29,7 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 
 
 # Usage 
-The purpose of this project is to show off a PWA text editor for education purposes. After the completion of this project the user will have learned multiple PWA techniques and deployment of a PWA.
+The purpose of this project is to show off my talents and skills to employers in the form of a portfolio
 
 
 # Contributors
