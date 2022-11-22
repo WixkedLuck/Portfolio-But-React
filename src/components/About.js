@@ -3,17 +3,22 @@ import {FaGem} from "react-icons/fa";
  import nuke from '../images/second.png';
 import '../styles/About.css';
 export default function About() {
-  const style = {  maxWidth: "300px" }
+  const style = {  maxWidth: "300px"  }
     return (
       
       <section className="about App" id="about-me">
         <h1 className='Title'>About Me: </h1>
-        <FaGem style={style}/>
-       <img className='image' alt='nuke' src={nuke} style={style}/> 
-        <p className="about--paragraph">
-       
-        </p>
+
+     
+       <p>I am a senior majoring in <span className="boldly">Computer Science</span> at Virginia State University and currently learning to be a <span className="boldly">full
+      stack web developer</span> at the University of Minnesota. Ever since I first picked up a video game I was intrigued with
+      knowing the how and what behind each title. Learning to code has only peaked my intrest more as to what I can
+      acomplish. While going through this <span className="boldly">bootcamp</span> I have gained a passion for <span className="boldly">developing full scale web applications</span>
+      while working with servers, APIs, databases, and creating interactive user interfaces.</p>
+     
+     
       </section>
+      
     );
   }
   

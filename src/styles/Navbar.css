@@ -1,15 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Playfair+Display&display=swap');
+
 *{
-    
+    font-family: 'Cinzel', serif ;
     font-size: 24px;
    
 }
 
 .bg{
-    background-color: #1C1C1C !important ;
+    background-color: rgb(23, 23, 23) !important ;
+    color: whitesmoke;
 }
-
+.nav-link, .navbar-brand{
+    color: whitesmoke !important;
+}
 .nav-link:hover{
-    color: #D2AC47 !important;
+    color: gray !important;
     border-bottom: #D2AC47 solid 2px ;
     overflow: hidden;
+}
+
+.current{
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: gray;
+    border-bottom: #D2AC47 solid 2px ;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }

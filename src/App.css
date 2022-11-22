@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Playfair+Display&display=swap');
 html{
-    background: linear-gradient(to right, #F7EF8A, #D2AC47);
+    background: rgb(32, 33, 36);
+    font-family: 'Cinzel', serif ;
+   
     
 }

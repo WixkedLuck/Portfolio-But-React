@@ -11,7 +11,11 @@ export default function PageChecker() {
 
 
 const renderPage = () => {
-  
+  if (currentPage === 'About') {
+    console.log("in contact");
+    return <About />;
+   
+  }
     if (currentPage === 'Contact') {
       console.log("in contact");
       return <Contact />;
@@ -25,7 +29,7 @@ const renderPage = () => {
       console.log("in resume");
       return <Resume />;
     }
-    return <About />;
+    return ;
   };
 
   

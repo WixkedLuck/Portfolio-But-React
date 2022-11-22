@@ -1,18 +1,32 @@
 html{
-    color: black !important;
+    color: whitesmoke !important;
+}
+p{
+    color: whitesmoke;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    font-size: 30px;
 }
 .Title{
- color: black !important;
+ color: whitesmoke !important;
  text-align: center; 
 
  margin: auto; 
- padding: 2rem;
-border-bottom: solid black 5px;
+ margin: 2rem;
+border-bottom: #D2AC47 solid 2px;
 }
-.App{
-    background: linear-gradient(to right, #076ac7, #d8d8d6);
+img{
+   margin-left: auto;
+   margin-right: auto;
+    width: 50%;
   
 }
-.image{
-    background-color: transparent;
+.App{
+    background: rgb(32, 33, 36);;
+  
+}
+
+.boldly{
+    font-size: 34px;
+    color:#D2AC47;
 }
