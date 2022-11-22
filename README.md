@@ -18,10 +18,7 @@
 
 
 # Installation
-In order to install my project you will need the to do one of the following
-## Download Application:
-- visit the heroku site and hit download at the top right of your screen, this will allow it to be an offline application.
-## install files
+In order to install my project you will need the following: 
 - Git
 - IDE with node.js capabilities 
 
