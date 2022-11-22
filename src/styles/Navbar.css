@@ -1,11 +1,13 @@
 *{
     color: #F7EF8A !important;
     font-size: 24px;
+   
 }
 
 .bg{
-    background-color: #1C1C1C;
+    background-color: #1C1C1C !important ;
 }
+
 .nav-link:hover{
     color: #D2AC47 !important;
     border-bottom: #D2AC47 solid 2px ;

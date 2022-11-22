@@ -1,17 +1,14 @@
-import React, { useState } from 'react';
-import Nav from './components/Nav';
-import About from './components/About';
+import React from 'react';
 import './App.css';
-
+import PageChecker from './components/PageChecker';
 function App() {
-  const [isClicked, setIsClicked] = useState(false);
+ 
   return (
     <div className="App">
-    <Nav isClicked={isClicked} setIsClicked={setIsClicked}></Nav>
-    <main id="main">
-        {isClicked ? <About></About> : <About></About>}
     
-      </main>
+       <PageChecker/>
+    
+    
     </div>
   );
 }

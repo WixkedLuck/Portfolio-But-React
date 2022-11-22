@@ -1,9 +1,10 @@
 import React from 'react';
-function About() {
+import nuke from '../images/nuke.png';
+export default function About() {
     return (
       <section className="about" id="about-me">
-        <h1 id="about">About Me</h1>
-      
+        <h1 >About Me</h1>
+      <img alt='nuke' src={nuke}/>
         <p className="about--paragraph">
        
         </p>
@@ -11,4 +12,4 @@ function About() {
     );
   }
   
-  export default About;
+ 
