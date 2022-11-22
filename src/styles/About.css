@@ -1,0 +1,18 @@
+html{
+    color: black !important;
+}
+.Title{
+ color: black !important;
+ text-align: center; 
+
+ margin: auto; 
+ padding: 2rem;
+border-bottom: solid black 5px;
+}
+.App{
+    background: linear-gradient(to right, #076ac7, #d8d8d6);
+  
+}
+.image{
+    background-color: transparent;
+}
