@@ -5,7 +5,7 @@
 * [Usage](#usage)
  * [Contributors](#contributors)
  * [Site](#site)
-![PortfolioV2](./src/images/LandingPage.PNG)
+
 # Description
 - The motivation behind this project was to create a porfolio specific to me and my previous projects. Creating this website allows me to share some of my previous works and puts them on display for others to view even on different screen sizes!
 
@@ -38,4 +38,5 @@ The purpose of this project is to show off my talents and skills to employers in
 
 # Site
 https://wixkedluck.github.io/Portfolio-But-React/
-
+#
+![PortfolioV2](./src/images/LandingPage.PNG)
