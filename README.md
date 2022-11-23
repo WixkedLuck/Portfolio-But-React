@@ -37,5 +37,5 @@ The purpose of this project is to show off my talents and skills to employers in
 
 
 # Site
-
+https://wixkedluck.github.io/Portfolio-But-React/
 
