@@ -1,6 +1,4 @@
 import React from 'react';
-import {FaGem} from "react-icons/fa";
- import nuke from '../images/second.png';
 import '../styles/About.css';
 export default function About() {
   const style = {  maxWidth: "300px"  }

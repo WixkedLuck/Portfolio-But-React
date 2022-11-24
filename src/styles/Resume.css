@@ -21,7 +21,7 @@ h3{
     margin-left: 10rem ;
     margin-right: 10rem;
     padding-right: 10px;
-    
+    width: fit-content;
     border-bottom: #D2AC47 solid 2px;
 }
 

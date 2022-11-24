@@ -22,7 +22,7 @@ export default function Resume() {
          Bootstrap 5 <span className="boldly">|</span> Tailwind <span className="boldly">|</span>
           GitHub <span className="boldly">|</span> Jest <span className="boldly">|</span>
            Express.js <span className="boldly">|</span> Sequelize.js <span className="boldly">|</span> React.js <span className="boldly">|</span> HandleBars.js <span className="boldly">|</span></p>
-        <h2  className='Subtitle'>Projects</h2>
+        
 
         <h2  className='Subtitle'>Education</h2>
         <h3 className='center'>University of Minnesota College of Continuing and Professional Studies Coding Boot Camp</h3>
