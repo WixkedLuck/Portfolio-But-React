@@ -53,7 +53,7 @@ export default function Resume() {
         <li className='lineLi '>Lead team members ranging from 3-20 at a time </li>
         </ul>
 
-        <h3 className='center '>YMCA Childwatch Attendant</h3>
+        <h3 className='center Colored'>YMCA Childwatch Attendant</h3>
         <ul className='space'>
         <li className=' lineLi'>Interact and build relations with parents and children</li>
         <li className=' lineLi'>Maintain cleanliness and safety of equipment, reporting suspicious activity.</li>

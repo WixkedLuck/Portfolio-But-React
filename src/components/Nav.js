@@ -1,8 +1,10 @@
 import React from 'react';
+
 import '../styles/Navbar.css';
 import  {FaCode} from "react-icons/fa";
  function Nav({currentPage ,handlePageChange}) {
-
+  
+  
     return (
         <nav className="navbar navbar-expand-lg bg">
         <div className="container-fluid">
@@ -14,16 +16,16 @@ import  {FaCode} from "react-icons/fa";
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className={handlePageChange === 'About ' ? 'current' : 'nav-link'}  href="#about" onClick={() => handlePageChange('About')}>About</a>
+                <a className={currentPage === 'About' ? 'nav-link active' : ' nav-link notactive'}  href="#about" onClick={() => handlePageChange('About')}>About</a>
               </li>
               <li className="nav-item">
-                <a className={handlePageChange === 'Projects ' ? 'nav-link' : 'nav-link'} href="#projects" onClick={() => handlePageChange('Projects')}>Projects</a>
+                <a className={currentPage === 'Projects' ? 'nav-link active' : ' nav-link notactive'}href="#projects" onClick={() => { handlePageChange('Projects')}}>Projects</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#contact" onClick={() => handlePageChange('Contact')}>Contact</a>
+                <a className={currentPage === 'Contact' ? 'nav-link active' : ' nav-link notactive'} href="#contact" onClick={() => handlePageChange('Contact')}>Contact</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " href='#resume' onClick={() => handlePageChange('Resume')}>Resume</a>
+                <a className={currentPage === 'Resume' ? 'nav-link active' : ' nav-link notactive'} href='#resume' onClick={() => handlePageChange('Resume')}>Resume</a>
               </li>
             </ul>
           </div>

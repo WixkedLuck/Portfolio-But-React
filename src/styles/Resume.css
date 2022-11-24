@@ -21,7 +21,7 @@ h3{
     margin-left: 10rem ;
     margin-right: 10rem;
     padding-right: 10px;
-    width: fit-content;
+   
     border-bottom: #D2AC47 solid 2px;
 }
 
@@ -33,6 +33,7 @@ p{
 }
 .center{
     text-align: center;
+    
     
 }
 .list{
@@ -55,5 +56,6 @@ p{
 h4{
     padding-top: 10px ;
     color: whitesmoke;
+    text-align: centerS;
     font-size: 32px !important;
 }

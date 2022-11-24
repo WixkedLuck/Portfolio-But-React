@@ -26,7 +26,8 @@
     overflow: hidden;
 }
 
-.onPage{
-    color: green !important ;
+.active{
+    color: gray !important   ;
+    border-bottom:#D2AC47 2px solid ;
 
 }
