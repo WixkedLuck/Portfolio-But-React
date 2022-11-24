@@ -10,9 +10,15 @@
     background-color: rgb(23, 23, 23) !important ;
     color: whitesmoke;
 }
-.nav-link, .navbar-brand{
-    color: whitesmoke !important;
+.offPage{
+    color: whitesmoke ;
   
+}
+.navbar-brand{
+    color: whitesmoke !important;
+}
+.nav-link{
+    color: whitesmoke !important;
 }
 .nav-link:hover{
     color: gray !important;
@@ -20,14 +26,7 @@
     overflow: hidden;
 }
 
-.current{
-    display: block;
-    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
-    font-size: var(--bs-nav-link-font-size);
-    font-weight: var(--bs-nav-link-font-weight);
-    color: gray;
-    border-bottom: #D2AC47 solid 2px ;
-    text-decoration: none;
-    
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+.onPage{
+    color: green !important ;
+
 }

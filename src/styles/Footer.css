@@ -1,0 +1,17 @@
+footer{
+    margin-top: 20vh !important;
+     background-color: rgb(23, 23, 23);
+     padding: 4vh;
+     
+     margin: auto;
+}
+
+.Icons{
+    color: whitesmoke ;
+   padding: 2rem;
+   text-align: center;
+
+}
+.Icons:hover{
+    color: gold;
+}

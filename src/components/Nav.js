@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Navbar.css';
-import {FaCode} from "react-icons/fa";
+import  {FaCode} from "react-icons/fa";
  function Nav({currentPage ,handlePageChange}) {
 
     return (
@@ -17,7 +17,7 @@ import {FaCode} from "react-icons/fa";
                 <a className={handlePageChange === 'About ' ? 'current' : 'nav-link'}  href="#about" onClick={() => handlePageChange('About')}>About</a>
               </li>
               <li className="nav-item">
-                <a className={handlePageChange === 'Projects ' ? 'nav-link' : 'current disabled'} href="#projects" onClick={() => handlePageChange('Projects')}>Projects</a>
+                <a className={handlePageChange === 'Projects ' ? 'nav-link' : 'nav-link'} href="#projects" onClick={() => handlePageChange('Projects')}>Projects</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#contact" onClick={() => handlePageChange('Contact')}>Contact</a>
