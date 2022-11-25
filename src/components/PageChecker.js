@@ -4,7 +4,7 @@ import About from './About';
 import Nav from './Nav';
 import Projects from './Projects';
 import Resume from './Resume';
-import Footer from './footer';
+
 
 
 export default function PageChecker() {  

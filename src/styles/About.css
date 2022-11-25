@@ -16,12 +16,7 @@ p{
 border-bottom: #D2AC47 solid 2px;
 }
 
-img{
-   margin-left: auto;
-   margin-right: auto;
-    width: 50%;
-  
-}
+
 .App{
     background: rgb(32, 33, 36);;
   
@@ -36,5 +31,18 @@ img{
     display: block;
   margin-left: auto;
   margin-right: auto;
+    
+}
+
+.dev{
+    color:#D2AC47 ;
+    font-size: 3rem;
+    margin: 4px;
+}
+.col{
+ padding: 3vh;
+
+}
+h3{
     
 }
