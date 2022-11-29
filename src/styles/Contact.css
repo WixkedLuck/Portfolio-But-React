@@ -66,3 +66,26 @@ select {
     font-size: 18px;
 
 }
+@media screen and (max-width: 980px) {
+   label{
+    font-size: 20px !important;
+   } 
+   input {
+    margin-right: 0px !important;
+}
+textarea {
+    width: fit-content !important;
+    height: 150px;
+    padding: none !important;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 20px !important;
+    text-align: center;
+    resize: none;
+}
+form {
+    font-size: large !important;
+}
+}

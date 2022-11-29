@@ -70,3 +70,11 @@ margin: auto;
 .icons:hover{
     color:gold;
 }
+
+@media screen and (max-width: 980px) {
+    .lineLi{
+        margin-left: 0rem;
+        margin-right: 0rem;
+        margin-bottom: 0px;
+    }
+}
