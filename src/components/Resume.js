@@ -1,10 +1,21 @@
 import React from 'react';
  import '../styles/Resume.css';
+ import { BsFillCloudDownloadFill } from "react-icons/bs";
 export default function Resume() {
+
+ 
     return(
         <section >
         <h1 className='Title'>Resume</h1>
+        
+        <a className='icons'   href='./David_Hybner.docx.pdf' download={"David_Hybner_Resume"}  >download <BsFillCloudDownloadFill size={40} /></a>
+        
         <h2 className='Subtitle'>Summary</h2>
+        
+
+
+
+
         <p>
         <span className="boldly">Full Stack Web developer</span> with a background in <span className="boldly">Computer Science</span>, having an appetite for continuous learning. Experienced collaborator and leader 
         in <span className="boldly">fast paced</span> working environments while maintaining a high degree of <span className="boldly">accuracy</span> and expectations. <span className="boldly">Passion</span> for developing 

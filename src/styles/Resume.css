@@ -59,3 +59,14 @@ h4{
     text-align: centerS;
     font-size: 32px !important;
 }
+.icons{
+color: #D2AC47;
+width: fit-content;
+display: block;
+margin: auto;
+
+
+}
+.icons:hover{
+    color:gold;
+}
