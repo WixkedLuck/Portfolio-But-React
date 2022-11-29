@@ -16,3 +16,12 @@ footer{
 .Icons:hover{
     color: gold;
 }
+
+@media screen and (max-width: 980px) {
+    .Icons{
+       
+       padding: 5px;
+
+         
+    }
+}
