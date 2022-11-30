@@ -32,7 +32,7 @@ export default function Resume() {
         <p className='center'>Git <span className="boldly">|</span> Materialize CSS <span className="boldly">|</span>
          Bootstrap 5 <span className="boldly">|</span> Tailwind <span className="boldly">|</span>
           GitHub <span className="boldly">|</span> Jest <span className="boldly">|</span>
-           Express.js <span className="boldly">|</span> Sequelize.js <span className="boldly">|</span> React.js <span className="boldly">|</span> HandleBars.js <span className="boldly">|</span></p>
+           Express.js <span className="boldly">|</span> Sequelize.js <span className="boldly">|</span> React.js <span className="boldly">|</span> HandleBars.js <span className="boldly">|</span> Apollo Graph Ql <span className="boldly">|</span> Webpack </p>
         
 
         <h2  className='Subtitle'>Education</h2>
