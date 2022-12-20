@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/Project.css';
 import blog from '../images/blog.PNG';
 import Fizz from '../images/FizzBuzz.png';
+import Bug from '../images/SmolByte.PNG'
 import Calc from '../images/Calculate.PNG';
 import Weather from '../images/weathertrial.PNG';
 import Loc from '../images/Loc1.PNG';
@@ -14,16 +15,17 @@ function Projects() {
         <div class="container text-center">
   <div class="row row-col-3">
     <div class="col">
+      <h5>SmolByte</h5>
+      <img src={Bug} alt='BackStock'></img>
+      <a className='linked'  href="https://github.com/WixkedLuck/Feature-Tracker" target="blank" rel="noreferrer">Code</a>
+      <a className='linked' href="https://smolbytes.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
+    </div>
+    
+    <div class="col">
       <h5>BackStock</h5>
-      <img src={Loc} alt='BackStock'></img>
+      <img src={Loc} alt='Backstock'></img>
       <a className='linked'  href="https://github.com/WixkedLuck/project-2-BackStock" target="blank" rel="noreferrer">Code</a>
       <a className='linked' href="https://backstock-23.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
-    </div>
-    <div class="col">
-      <h5>FizzBuzz</h5>
-      <img src={Fizz} alt='FizzBuzz'></img>
-      <a className='linked'  href="https://github.com/WixkedLuck/Fizz-Buzz" target="blank" rel="noreferrer">Code</a>
-      <a className='linked' href="https://wixkedluck.github.io/Fizz-Buzz/" target="blank" rel="noreferrer">Site</a>
     </div>
     <div class="col">
       <h5>Weather Dashboard</h5>
@@ -47,9 +49,10 @@ function Projects() {
       <a className='linked' href="https://mvc-tech-blog2.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
     </div>
     <div class="col">
-      <h5>Team Generator</h5>
-      <img src={Team} alt="Team-Gen"></img>
-      <a className='linked'  href="https://github.com/WixkedLuck/Team-Profile-Generator" target="blank" rel="noreferrer">Code</a>
+    <h5>FizzBuzz</h5>
+      <img src={Fizz} alt='FizzBuzz'></img>
+      <a className='linked'  href="https://github.com/WixkedLuck/Fizz-Buzz" target="blank" rel="noreferrer">Code</a>
+      <a className='linked' href="https://wixkedluck.github.io/Fizz-Buzz/" target="blank" rel="noreferrer">Site</a>
       
     </div>
   </div>
