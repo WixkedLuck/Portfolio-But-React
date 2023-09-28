@@ -9,8 +9,8 @@ export default function About() {
         <h1 className='Title'>About Me: </h1>
 
      
-       <p>I am a senior majoring in <span className="boldly">Computer Science</span> at Virginia State University and currently learning to be a <span className="boldly">full
-      stack web developer</span> at the University of Minnesota. Ever since I first picked up a video game I was intrigued with
+       <p>I am a senior majoring in <span className="boldly">Computer Science</span> at Virginia State University and a recent graduate from the coding bootcamp at the University of Minnesota. During this time, I have taken the time to learn more about <span className="boldly">full
+      stack web development</span> . Ever since I first picked up a video game I was intrigued with
       knowing the how and what behind each title. Learning to code has only peaked my intrest more as to what I can
       acomplish. While going through this <span className="boldly">bootcamp</span> I have gained a passion for <span className="boldly">developing full scale web applications</span>
       while working with servers, APIs, databases, and creating interactive user interfaces.</p>
