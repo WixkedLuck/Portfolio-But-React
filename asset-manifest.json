@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio-But-React/static/css/main.da5bf4d3.css",
-    "main.js": "/Portfolio-But-React/static/js/main.6c7e669d.js",
-    "static/media/weathertrial.PNG": "/Portfolio-But-React/static/media/weathertrial.1e6354bcf01c61f5eb4b.PNG",
-    "static/media/Calculate.PNG": "/Portfolio-But-React/static/media/Calculate.7bce61f859ce82ef415c.PNG",
-    "static/media/FizzBuzz.png": "/Portfolio-But-React/static/media/FizzBuzz.4eefb591aea44fae840a.png",
+    "main.css": "/Portfolio-But-React/static/css/main.a83ec6bd.css",
+    "main.js": "/Portfolio-But-React/static/js/main.08fb48f2.js",
+    "static/media/Blogger.svg": "/Portfolio-But-React/static/media/Blogger.421365726fbe4de88e8eb9efed23cb1f.svg",
+    "static/media/Weather.svg": "/Portfolio-But-React/static/media/Weather.73fb20c60a11f9cc80d9e4be89e53379.svg",
+    "static/media/Fizz.svg": "/Portfolio-But-React/static/media/Fizz.5b4e8f463b288a306a93f2ac99e7bcce.svg",
+    "static/media/Loan.svg": "/Portfolio-But-React/static/media/Loan.93ac2e80d39bfae5b016f3934288b4c0.svg",
+    "static/media/android-chrome-512x512.png": "/Portfolio-But-React/static/media/android-chrome-512x512.836aa4d6c244700f43d6.png",
     "static/media/Myteam.PNG": "/Portfolio-But-React/static/media/Myteam.1e15caa0653e65628207.PNG",
     "static/media/David.jpg": "/Portfolio-But-React/static/media/David.204102e5754b82af3c41.jpg",
-    "static/media/SmolByte.PNG": "/Portfolio-But-React/static/media/SmolByte.6438d33244f5f04a3e15.PNG",
-    "static/media/Loc1.PNG": "/Portfolio-But-React/static/media/Loc1.0b43fa3a3727d8d019cc.PNG",
-    "static/media/blog.PNG": "/Portfolio-But-React/static/media/blog.6d03020301e8bfdef33b.PNG",
+    "static/media/SMolBytes.svg": "/Portfolio-But-React/static/media/SMolBytes.2a8155e0db68ed65ec55e5ac557f0984.svg",
     "index.html": "/Portfolio-But-React/index.html",
-    "main.da5bf4d3.css.map": "/Portfolio-But-React/static/css/main.da5bf4d3.css.map",
-    "main.6c7e669d.js.map": "/Portfolio-But-React/static/js/main.6c7e669d.js.map"
+    "main.a83ec6bd.css.map": "/Portfolio-But-React/static/css/main.a83ec6bd.css.map",
+    "main.08fb48f2.js.map": "/Portfolio-But-React/static/js/main.08fb48f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.da5bf4d3.css",
-    "static/js/main.6c7e669d.js"
+    "static/css/main.a83ec6bd.css",
+    "static/js/main.08fb48f2.js"
   ]
 }
