@@ -42,6 +42,13 @@ button {
     padding: 1rem;
     
 }
+.padding-round{
+    padding: 3rem;
+}
+.spacing{ 
+    margin-left: 3px;
+   
+}
 
 button:hover {
     background-color: gray;
