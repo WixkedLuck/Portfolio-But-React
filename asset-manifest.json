@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-But-React/static/css/main.a83ec6bd.css",
-    "main.js": "/Portfolio-But-React/static/js/main.08fb48f2.js",
+    "main.css": "/Portfolio-But-React/static/css/main.8b488825.css",
+    "main.js": "/Portfolio-But-React/static/js/main.af9bda0d.js",
     "static/media/Blogger.svg": "/Portfolio-But-React/static/media/Blogger.421365726fbe4de88e8eb9efed23cb1f.svg",
     "static/media/Weather.svg": "/Portfolio-But-React/static/media/Weather.73fb20c60a11f9cc80d9e4be89e53379.svg",
     "static/media/Fizz.svg": "/Portfolio-But-React/static/media/Fizz.5b4e8f463b288a306a93f2ac99e7bcce.svg",
@@ -11,11 +11,11 @@
     "static/media/David.jpg": "/Portfolio-But-React/static/media/David.204102e5754b82af3c41.jpg",
     "static/media/SMolBytes.svg": "/Portfolio-But-React/static/media/SMolBytes.2a8155e0db68ed65ec55e5ac557f0984.svg",
     "index.html": "/Portfolio-But-React/index.html",
-    "main.a83ec6bd.css.map": "/Portfolio-But-React/static/css/main.a83ec6bd.css.map",
-    "main.08fb48f2.js.map": "/Portfolio-But-React/static/js/main.08fb48f2.js.map"
+    "main.8b488825.css.map": "/Portfolio-But-React/static/css/main.8b488825.css.map",
+    "main.af9bda0d.js.map": "/Portfolio-But-React/static/js/main.af9bda0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a83ec6bd.css",
-    "static/js/main.08fb48f2.js"
+    "static/css/main.8b488825.css",
+    "static/js/main.af9bda0d.js"
   ]
 }
