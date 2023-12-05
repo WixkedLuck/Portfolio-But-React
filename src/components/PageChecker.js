@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Contact from './Contact';
+import ContactUs from './Contact';
 import About from './About';
 import Nav from './Nav';
 import Projects from './Projects';
@@ -19,7 +19,7 @@ const renderPage = () => {
   }
     if (currentPage === 'Contact') {
       console.log("in contact");
-      return <Contact />;
+      return <ContactUs />;
      
     }
     if (currentPage === 'Projects') {
