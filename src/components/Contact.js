@@ -20,17 +20,27 @@ export default function ContactUs  () {
     };
   
     return (
-        
-      <form ref={form} onSubmit={sendEmail} className='padding-round'>
+        <div className='row m-3' >
+          
+        <div className='col'>
         <p>Thank you for taking the time to reach out to me and viewing my portfolio! I look forward to speaking with you!</p>
-        <p>Please fill out this form below and I will get back to you as soon as I can!</p>
+        <p>Please fill out this form  and I will get back to you as soon as I can!</p>
+        </div> 
+        <div className='col'>
+          <div className='centerIt'>
+        <form ref={form} onSubmit={sendEmail} className='padding-round'>
         <label>Name:</label>
-        <input type="text" name="user_name" className='spacing' />
+        <input type="text" name="user_name" className='spacing' /><br></br>
         <label>Email:</label>
         <input type="email" name="user_email" className='spacing'/><br></br>
-        <label>Message</label>
-        <textarea name="message" />
-        <input type="submit" value="Send" />
+        <label >Message</label>
+        <textarea name="message" className='in' /><br></br>
+        <input type="submit" value="Send"  className='spacing '/>
+        
       </form>
+      </div>
+      </div>
+      </div>
+ 
     );
   };

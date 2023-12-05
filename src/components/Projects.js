@@ -15,7 +15,7 @@ function Projects() {
         
         <div class="container text-center">
   <div class="row row-col-3">
-  <div class="col">
+  <div class="col col-style">
       <h5>Cyberware</h5>
       <img src={Loc} alt='Cyberware'></img>
       
@@ -24,7 +24,7 @@ function Projects() {
       <a className='linked'  href="https://github.com/WixkedLuck/CyberWare" target="blank" rel="noreferrer">Code</a>
       <a className='linked' href="https://wixkedluck.github.io/CyberWare/" target="blank" rel="noreferrer">Site</a>
     </div>
-    <div class="col">
+    <div class="col col-style">
       <h5>SmolByte</h5>
       <img src={Bug} alt='Small-Bytes'></img>
       <span className='smart'>Site for team based bug tracking</span><br></br>
@@ -33,7 +33,7 @@ function Projects() {
     </div>
     
     
-    <div class="col">
+    <div class="col col-style">
       <h5>Weather Dashboard</h5>
       <img src={Weather} alt='Weather-Dashboard'></img>
       <span className='smart'>About to go out? Why not check the forecast.</span><br></br>
@@ -43,21 +43,23 @@ function Projects() {
   </div>
 
   <div class="row row-col-3">
-    <div class="col">
+    <div class="col col-style">
      <h5>Morgage Calculator</h5>
      <img src={Calc} alt='Loan-Shark'></img>
      <span className='smart'>Learn to budget better</span><br></br>
      <a className='linked'  href="https://github.com/WixkedLuck/Loan-Shark" target="blank" rel="noreferrer">Code</a>
       <a className='linked' href="https://wixkedluck.github.io/Loan-Shark/index.html" target="blank" rel="noreferrer">Site</a>
     </div>
-    <div class="col">
+
+    <div class="col col-style">
       <h5 >Blogger</h5>
       <img src={blog} alt='Blog-Site'></img>
       <span className='smart'>Blog site</span><br></br>
       <a className='linked'  href="https://github.com/WixkedLuck/MVC-Tech-Blog" target="blank" rel="noreferrer">Code</a>
       <a className='linked' href="https://mvc-tech-blog2.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
     </div>
-    <div class="col">
+    
+    <div class="col col-style">
     <h5>FizzBuzz</h5>
       <img src={Fizz} alt='FizzBuzz'></img>
       <span className='smart'>Now featuring react</span><br></br>

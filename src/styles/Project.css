@@ -6,19 +6,7 @@
     border-bottom: #D2AC47 solid 2px;
 }
 
-form {
-    font-family: 'Cinzel', serif;
-    margin: auto;
-    text-align: center;
-    margin-top: 10vh;
-    display: block;
-    width: fit-content;
-    font-size: xx-large;
-    border-radius: 50px;
-    color: whitesmoke;
-    background: rgb(23, 23, 23);
 
-}
 .smart{
     color:whitesmoke ;
     font-size: 17px;
@@ -48,14 +36,14 @@ img{
     color:gray;
 }
 
-.col{
+.col-style{
     background-color:rgba(24, 23, 24);
     margin: 10px;
     margin-bottom: 20px;
     padding-bottom: 20px;
   
 }
-textarea {
+/* textarea {
     width: 100%;
     height: 150px;
     padding: 12px 20px;
@@ -65,7 +53,7 @@ textarea {
     background-color: #f8f8f8;
     font-size: 24px;
     resize: none;
-}
+} */
 
 button {
     margin-top: 2rem;
@@ -84,10 +72,7 @@ p {
     font-size: 36px;
 }
 
-label {
-    font-size: 40px;
-    padding-left: 1rem;
-}
+
 
 input {
     margin-right: 30px;
@@ -98,3 +83,6 @@ select {
     font-size: 18px;
 
 }
+
+
+

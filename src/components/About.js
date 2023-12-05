@@ -28,7 +28,7 @@ export default function About() {
       </div>  
       <div class="container text-center">
       <div class="row">
-    <div class="col">
+    <div class="col col-style">
       <h3>Mern Stack</h3>
          {/* Mern Stack    */}
          <i title='MongoDB' class="devicon-mongodb-plain dev"></i>
@@ -36,7 +36,7 @@ export default function About() {
        <i title='React.js' class="devicon-react-original dev"></i>
        <i title='Node.js' class="devicon-nodejs-plain dev"></i>
     </div>
-    <div class="col">
+    <div class="col col-style">
      <h3>MVC Stack</h3>
      <i title='HTML5' class="devicon-html5-plain dev"></i>     
       <i title='CSS3' class="devicon-css3-plain dev"></i>
@@ -45,11 +45,11 @@ export default function About() {
       <i title='MySQL' class="devicon-mysql-plain-wordmark dev"></i>
       <i title='Handlebars.js' class="devicon-handlebars-plain dev"></i>
     </div>
-    <div class="col">
+    <div class="col col-style">
     <h3>Testing</h3>
     <i title='Jest' class="devicon-jest-plain dev"></i>
     </div>
-    <div class="col">
+    <div class="col col-style">
      <h3>Version Control</h3>
        <i title='GitLab' class="devicon-gitlab-plain dev"></i>
        <i title='Git' class="devicon-git-plain dev"></i>      
@@ -68,13 +68,13 @@ export default function About() {
     
   </div>
   <div class="row">
-    <div class="col">
+    <div class="col col-style">
     <h3>Deployment sites</h3>
     <i title='Heroku' class="devicon-heroku-original dev" ></i> 
     <i title='Github' class="devicon-github-original dev"></i>
     </div>
     
-    <div class="col">
+    <div class="col col-style">
     <h3>Frameworks</h3>
       <i title='Tailwind' class="devicon-tailwindcss-plain dev"></i>          
     <i title='Bootstrap' class="devicon-bootstrap-plain dev"></i>
@@ -83,7 +83,7 @@ export default function About() {
 
   
   <div class="row">
-    <div class="col">
+    <div class="col col-style">
      <h3>Daily Essentials</h3>
        
      <i title='Slack' class="devicon-slack-plain dev"></i>
@@ -92,7 +92,7 @@ export default function About() {
                
     </div>
     
-    <div class="col">
+    <div class="col col-style">
     <h3>Other Languages</h3>
     <i title='Java' class="devicon-java-plain dev"></i>
        <i title='Python' class="devicon-python-plain dev"></i> 
