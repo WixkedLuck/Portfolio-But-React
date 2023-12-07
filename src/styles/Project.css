@@ -8,11 +8,14 @@
 
 
 .smart{
+    padding: 1rem;
     color:whitesmoke ;
-    font-size: 17px;
+    font-size: 20px;
     
 }
-
+.gcol{
+   color:gray; 
+}
 h5{
     color: whitesmoke;
     text-align: center;
@@ -20,12 +23,16 @@ h5{
     border-bottom: #D2AC47 solid 2px;
     
 }
+.pad{
+    padding-top: 7rem;
+}
 img{
     width: 100%;
    
 
 }
 .linked{
+    font-size: 20px;
     margin: 5px;
     color: whitesmoke ;
     border-bottom: #D2AC47 2px solid;
@@ -68,9 +75,7 @@ button:hover {
     color: #ccc;
 }
 
-p {
-    font-size: 36px;
-}
+
 
 
 

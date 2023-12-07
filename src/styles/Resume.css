@@ -25,12 +25,7 @@ h3{
     border-bottom: #D2AC47 solid 2px;
 }
 
-p{
-    color: whitesmoke;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    font-size: 30px;
-}
+
 .center{
     text-align: center;
     
@@ -48,6 +43,7 @@ p{
     margin-left: 10rem;
     margin-right: 10rem;
     margin-bottom: 10px;
+    font-size: larger;
 }
 .space{
     margin-top: 2rem;
@@ -72,13 +68,53 @@ margin: auto;
 }
 
 @media screen and (max-width: 980px) {
+    h3{
+        margin-left: 0 ;
+        margin-right: 0;
+        padding-right: 0; 
+    }
     .lineLi{
-        margin-left: 0rem;
-        margin-right: 0rem;
-        margin-bottom: 0px;
-        font-size: 15px !important;
+        margin-left: 0;
+    margin-right: 0; 
     }
-    h4{
-        font-size: 17px !important;
+    p{
+        margin: auto;
+        width: fit-content;
     }
+    .sizeIt{
+        font-size: 16px;
+        margin: auto;
+
+    }
+    .col-8{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .photo{
+        width: 100%;
+        
+        
+    }
+    .icon{
+        width: auto;
+        padding-top: 1rem;
+        padding-bottom: 3rem;
+    }
+    form, input{
+        max-width: 200px;
+        padding: 0;
+    }
+    .centerIt{
+        padding: 42px;
+    }
+   
+    .col{
+        padding: 1vh;
+    }
+   
+   h4{
+    font-size: 21px !important;
+   }
 }

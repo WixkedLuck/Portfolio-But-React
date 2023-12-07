@@ -20,17 +20,34 @@
     width: fit-content;
     text-align: start;
 }
+.mag{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
 
 .in{
     width: 100%;
 }
 
+.wid{
+    width:fit-content ;
+}
+.bord{
+    border: 3px solid #D2AC47 !important;
+}
+.bor{
+    border: 3px solid #181718 !important; 
+    
+}
 @media screen and (max-width: 980px) {
- .centerIt {padding: 5px;} 
- form{
-    max-width: 300px !important;
- }  
- input{
-    max-width: 250px;
- }
+    .mag{
+        margin-left: 2rem;
+        margin-right: 1rem ;
+    }
+    .spacing{
+        margin: auto;
+    }
+    .spacing2{
+        margin-left: 4rem ;
+    }
 }

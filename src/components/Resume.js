@@ -7,8 +7,8 @@ export default function Resume() {
     return(
         <section >
         <h1 className='Title'>Resume</h1>
-        
-        <a className='icons'   href='./David_Hybner.docx.pdf' download={"David_Hybner_Resume"}  >download <BsFillCloudDownloadFill size={40} /></a>
+        <p className='fs-4 center'>download</p>
+        <a className='icons'   href='./David_Hybner.docx.pdf' download={"David_Hybner_Resume"}  > <BsFillCloudDownloadFill size={40} /></a>
         
         <h2 className='Subtitle'>Summary</h2>
         
@@ -16,20 +16,20 @@ export default function Resume() {
 
 
 
-        <p>
+        <p className='sizeIt'>
         <span className="boldly">Full Stack Web developer</span> with a background in <span className="boldly">Computer Science</span>, having an appetite for continuous learning. Experienced collaborator and leader 
         in <span className="boldly">fast paced</span> working environments while maintaining a high degree of <span className="boldly">accuracy</span> and expectations. <span className="boldly">Passion</span> for developing 
         full scale web applications while working with servers, APIs, databases, and user interfaces. Known among staff as a <span className="boldly">strong leader</span> and trainer. 
         </p>
         <h2 className='Subtitle'>Technical Skills</h2>
-        <h3 className='center'>Languages:</h3>
-        <p className='center'>HTML <span className="boldly">|</span> CSS <span className="boldly">|</span> 
+        <h3 className='center '>Languages:</h3><br></br>
+        <p className='center sizeIt'>HTML <span className="boldly">|</span> CSS <span className="boldly">|</span> 
           JavaScript ES6+ <span className="boldly">|</span> jQuery <span className="boldly">|</span>
          Node.js <span className="boldly">|</span> Java <span className="boldly">|</span>
           Python <span className="boldly">|</span> MySQL <span className="boldly">|</span> MATLAB <span className="boldly">|</span> MongoDB </p>
-       
-        <h3 className='center'>Tools:</h3>
-        <p className='center'>Git <span className="boldly">|</span> Materialize CSS <span className="boldly">|</span>
+          <br></br>
+        <h3 className='center'>Tools:</h3><br></br>
+        <p className='center sizeIt'>Git <span className="boldly">|</span> Materialize CSS <span className="boldly">|</span>
          Bootstrap 5 <span className="boldly">|</span> Tailwind <span className="boldly">|</span>
           GitHub <span className="boldly">|</span> Jest <span className="boldly">|</span>
            Express.js <span className="boldly">|</span> Sequelize.js <span className="boldly">|</span> React.js <span className="boldly">|</span> HandleBars.js <span className="boldly">|</span> Apollo Graph Ql <span className="boldly">|</span> Webpack </p>
@@ -37,13 +37,13 @@ export default function Resume() {
 
         <h2  className='Subtitle'>Education</h2>
         <h3 className='center'>University of Minnesota College of Continuing and Professional Studies Coding Boot Camp</h3>
-        <li className='center list'>Full Stack Web Development Certificate </li>
+        <p className='center list'>Full Stack Web Development Certificate </p>
         <h3 className='center'>Virginia State University</h3>
-        <li className='center list'>Bachelor of Science Degree, Computer Science Degree Candidate.</li>
+        <p className='center list'>Bachelor of Science Degree, Computer Science Degree Candidate.</p>
         <h3 className='center'>Louisiana State University Continued Education</h3>
-        <li className='center list'>AWS Cloud Practitioner Certificate </li>
+        <p className='center list'>AWS Cloud Practitioner Certificate </p>
         <h3 className='center'>John Tyler Community College</h3>
-        <li className='center list'>Associates in Science Degree, General Studies, and General Education Certificate</li>
+        <p className='center list'>Associates in Science Degree, General Studies, and General Education Certificate</p>
         
         <h2  className='Subtitle'>Work Experience</h2>
         <h3 className='center '>Target Team Member</h3>

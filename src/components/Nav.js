@@ -6,7 +6,7 @@ import  {FaCode} from "react-icons/fa";
   
   
     return (
-        <nav className="navbar navbar-expand-lg bg">
+        <nav className="navbar navbar-expand-lg bg fs-4">
         <div className="container-fluid">
             <FaCode/>
           <a className="navbar-brand"  >David Hybner</a>
