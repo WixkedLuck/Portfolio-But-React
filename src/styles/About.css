@@ -102,12 +102,12 @@ box-shadow:  20px 20px 60px #141414,
     .ick{
         width: auto;
     }
-    .photo2{
-       
-        margin-left: 2rem;
-        
-    }
+  
     .photo{
+        width: 80% !important;
+        margin-left: 2.6rem;
+    }
+    .photo2{
         width: 80% !important;
         margin-left: 2.6rem;
     }
