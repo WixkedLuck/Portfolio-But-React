@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/Portfolio-But-React/static/css/main.8b488825.css",
-    "main.js": "/Portfolio-But-React/static/js/main.af9bda0d.js",
+    "main.css": "/Portfolio-But-React/static/css/main.50fcb095.css",
+    "main.js": "/Portfolio-But-React/static/js/main.d660249f.js",
     "static/media/Blogger.svg": "/Portfolio-But-React/static/media/Blogger.421365726fbe4de88e8eb9efed23cb1f.svg",
     "static/media/Weather.svg": "/Portfolio-But-React/static/media/Weather.73fb20c60a11f9cc80d9e4be89e53379.svg",
+    "static/media/hackerrank.png": "/Portfolio-But-React/static/media/hackerrank.66d46ad18b538661d91b.png",
     "static/media/Fizz.svg": "/Portfolio-But-React/static/media/Fizz.5b4e8f463b288a306a93f2ac99e7bcce.svg",
     "static/media/Loan.svg": "/Portfolio-But-React/static/media/Loan.93ac2e80d39bfae5b016f3934288b4c0.svg",
+    "static/media/grad.jpg": "/Portfolio-But-React/static/media/grad.de97f22ea08fdc80e0a6.jpg",
     "static/media/android-chrome-512x512.png": "/Portfolio-But-React/static/media/android-chrome-512x512.836aa4d6c244700f43d6.png",
-    "static/media/Myteam.PNG": "/Portfolio-But-React/static/media/Myteam.1e15caa0653e65628207.PNG",
+    "static/media/RWD.png": "/Portfolio-But-React/static/media/RWD.d67b595c297f020f17b6.png",
     "static/media/David.jpg": "/Portfolio-But-React/static/media/David.204102e5754b82af3c41.jpg",
     "static/media/SMolBytes.svg": "/Portfolio-But-React/static/media/SMolBytes.2a8155e0db68ed65ec55e5ac557f0984.svg",
+    "static/media/OE.jpg": "/Portfolio-But-React/static/media/OE.485105d018152544028f.jpg",
+    "static/media/SSG.jpg": "/Portfolio-But-React/static/media/SSG.99d26b24b908374821cb.jpg",
+    "static/media/tb.png": "/Portfolio-But-React/static/media/tb.795abc2d27e3450eee8d.png",
+    "static/media/JSE.jpg": "/Portfolio-But-React/static/media/JSE.a00595144790f04349c0.jpg",
+    "static/media/W11.jpg": "/Portfolio-But-React/static/media/W11.8c7e5105bda89af498f8.jpg",
+    "static/media/aws.png": "/Portfolio-But-React/static/media/aws.e960aca0ff051ebe5226.png",
+    "static/media/GH.jpg": "/Portfolio-But-React/static/media/GH.4cb590a4a2f0123bd9d2.jpg",
+    "static/media/bootcamp.png": "/Portfolio-But-React/static/media/bootcamp.897029ada12b7dccfc03.png",
+    "static/media/intro.png": "/Portfolio-But-React/static/media/intro.b95e14c5f95033c2cac8.png",
     "index.html": "/Portfolio-But-React/index.html",
-    "main.8b488825.css.map": "/Portfolio-But-React/static/css/main.8b488825.css.map",
-    "main.af9bda0d.js.map": "/Portfolio-But-React/static/js/main.af9bda0d.js.map"
+    "main.50fcb095.css.map": "/Portfolio-But-React/static/css/main.50fcb095.css.map",
+    "main.d660249f.js.map": "/Portfolio-But-React/static/js/main.d660249f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b488825.css",
-    "static/js/main.af9bda0d.js"
+    "static/css/main.50fcb095.css",
+    "static/js/main.d660249f.js"
   ]
 }
