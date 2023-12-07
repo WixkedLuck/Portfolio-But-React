@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-But-React/static/css/main.50fcb095.css",
-    "main.js": "/Portfolio-But-React/static/js/main.d660249f.js",
+    "main.css": "/Portfolio-But-React/static/css/main.57dccf4b.css",
+    "main.js": "/Portfolio-But-React/static/js/main.1fb11ccb.js",
     "static/media/Blogger.svg": "/Portfolio-But-React/static/media/Blogger.421365726fbe4de88e8eb9efed23cb1f.svg",
     "static/media/Weather.svg": "/Portfolio-But-React/static/media/Weather.73fb20c60a11f9cc80d9e4be89e53379.svg",
     "static/media/hackerrank.png": "/Portfolio-But-React/static/media/hackerrank.66d46ad18b538661d91b.png",
@@ -22,11 +22,11 @@
     "static/media/bootcamp.png": "/Portfolio-But-React/static/media/bootcamp.897029ada12b7dccfc03.png",
     "static/media/intro.png": "/Portfolio-But-React/static/media/intro.b95e14c5f95033c2cac8.png",
     "index.html": "/Portfolio-But-React/index.html",
-    "main.50fcb095.css.map": "/Portfolio-But-React/static/css/main.50fcb095.css.map",
-    "main.d660249f.js.map": "/Portfolio-But-React/static/js/main.d660249f.js.map"
+    "main.57dccf4b.css.map": "/Portfolio-But-React/static/css/main.57dccf4b.css.map",
+    "main.1fb11ccb.js.map": "/Portfolio-But-React/static/js/main.1fb11ccb.js.map"
   },
   "entrypoints": [
-    "static/css/main.50fcb095.css",
-    "static/js/main.d660249f.js"
+    "static/css/main.57dccf4b.css",
+    "static/js/main.1fb11ccb.js"
   ]
 }
