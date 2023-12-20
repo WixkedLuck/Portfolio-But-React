@@ -25,10 +25,10 @@ export default function About() {
       <div class="row">
         <div class="col-8">
           <h1 className='Title'>About Me: </h1>
-          <p class="sizeIt marf">I am a senior majoring in <span className="boldly">Computer Science</span> at Virginia State University and a recent graduate from the coding bootcamp at the University of Minnesota. During this time, I have taken the time to learn more about <span className="boldly">full
-            stack web development</span> . Ever since I first picked up a video game I was intrigued with
-            knowing the how and what behind each title. Learning to code has only peaked my intrest more as to what I can
-            acomplish. While going through this <span className="boldly">bootcamp</span> I have gained a passion for <span className="boldly">developing full scale web applications </span>
+          <p class="sizeIt marf">I am a recent graduate from Virginia State University majoring in <span className="boldly">Computer Science</span>  alongside a graduate from the coding bootcamp at the University of Minnesota. During this time, I have taken the time to learn more about <span className="boldly">full
+            stack web development</span>. Ever since I first picked up a video game I was intrigued with
+            knowing the how and what behind each title. Learning to code has only peaked my interest more as to what I can
+            accomplish. While going through this <span className="boldly">bootcamp</span> I have gained a passion for <span className="boldly">developing full scale web applications </span>
             while working with servers, APIs, databases, and creating interactive user interfaces.</p>
           {/* <div className='center'>
             <a href='https://lsu.badgr.com/public/assertions/arl4SZnvQDuRuBvlVt2cnA?identity__email=dah1998@yahoo.com' target='blank'><img src={LSU} alt='AWS Cloud Practitioner' className='half m-4 '></img></a>

@@ -8,7 +8,7 @@ export default function Resume() {
         <section >
         <h1 className='Title'>Resume</h1>
         <p className='fs-4 center'>download</p>
-        <a className='icons'   href='./David_Hybner.docx.pdf' download={"David_Hybner_Resume"}  > <BsFillCloudDownloadFill size={40} /></a>
+        <a className='icons'   href='./Resume-David-Hybner23.pdf' download={"David_Hybner_Resume"}  > <BsFillCloudDownloadFill size={40} /></a>
         
         <h2 className='Subtitle'>Summary</h2>
         
