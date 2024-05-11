@@ -16,7 +16,7 @@
     color: whitesmoke;
 }
 h3{
-    color:whitesmoke;
+    color:whitesmoke !important;
     font-size: 24px !important;
     margin-left: 10rem ;
     margin-right: 10rem;

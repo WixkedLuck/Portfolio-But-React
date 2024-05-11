@@ -9,6 +9,7 @@
 .bg{
     background-color: rgb(23, 23, 23) !important ;
     color: whitesmoke;
+    
 }
 .offPage{
     color: whitesmoke ;
@@ -19,6 +20,7 @@
 }
 .nav-link{
     color: whitesmoke !important;
+    
 }
 .nav-link:hover{
     color: gray !important;
@@ -28,6 +30,7 @@
 
 .active{
     color: gray !important   ;
-    border-bottom:#D2AC47 2px solid ;
+    border-bottom:#D2AC47 2px solid !important ;
+    
 
 }

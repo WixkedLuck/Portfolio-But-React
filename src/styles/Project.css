@@ -17,11 +17,14 @@
    color:gray; 
 }
 h5{
-    color: whitesmoke;
+    color: whitesmoke !important;
     text-align: center;
     font-size: 30px !important;
     border-bottom: #D2AC47 solid 2px;
     
+}
+#title2{
+    color: whitesmoke ;
 }
 .pad{
     padding-top: 7rem;

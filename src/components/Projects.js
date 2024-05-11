@@ -13,7 +13,7 @@ function Projects() {
         <section className="about" id="about-me">
         <h1 className='Title '>Projects</h1>
         <div className='pad'>
-        <h4 className=' center  pt-5 pb-5 '>Web Development</h4>
+        <h4 className=' center  pt-5 pb-5 'id='title2'>Web Development</h4>
         </div>
         <div class="container text-center ">
   <div class="row row-col-3">
