@@ -25,11 +25,10 @@ export default function About() {
       <div class="row">
         <div class="col-8">
           <h1 className='Title'>About Me: </h1>
-          <p class="sizeIt marf">I am a recent graduate from Virginia State University majoring in <span className="boldly">Computer Science</span>  alongside a graduate from the coding bootcamp at the University of Minnesota. During this time, I have taken the time to learn more about <span className="boldly">full
-            stack web development</span>. Ever since I first picked up a video game I was intrigued with
-            knowing the how and what behind each title. Learning to code has only peaked my interest more as to what I can
-            accomplish. While going through this <span className="boldly">bootcamp</span> I have gained a passion for <span className="boldly">developing full scale web applications </span>
-            while working with servers, APIs, databases, and creating interactive user interfaces.</p>
+          <p class="sizeIt marf">Hello! My name is David Hybner, but most call me Andrew. I am a recent graduate from Virginia State University with a major in <span className="boldly">Computer Science</span>. During the time I was in school, I worked on numerous projects ranging from simple micro games, to full stack programs. 
+             Ever since I first picked up a video game, I was intrigued with
+            knowing how they were created and wanted to learn more. I knew I would want to do something in the realms of software development and started to persue programming as early as highschool. Java was my first programming language, and in 2022 I went through a coding bootcamp focusing on web development. Over the next six months with the University of Minnesota, I learned how to make <span className="boldly">full scale web applications </span>
+            while working closely with servers, APIs, databases, and user interfaces in the classroom. Being able to work on and develop these projects has only furthered my passion for this line of work and I would love to continue to hone in on my skills while working on your team!  </p> 
           {/* <div className='center'>
             <a href='https://lsu.badgr.com/public/assertions/arl4SZnvQDuRuBvlVt2cnA?identity__email=dah1998@yahoo.com' target='blank'><img src={LSU} alt='AWS Cloud Practitioner' className='half m-4 '></img></a>
             <a href='https://www.credly.com/badges/6e64de14-33c3-46b5-98d3-ca12ae2f053e/linked_in_profile' target='blank'><img src={Cs} alt='Cisco Intro to CS' className='half  m-4 '></img></a>

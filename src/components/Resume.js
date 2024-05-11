@@ -8,7 +8,7 @@ export default function Resume() {
         <section >
         <h1 className='Title'>Resume</h1>
         <p className='fs-4 center'>download</p>
-        <a className='icons'   href='./Resume-David-Hybner23.pdf' download={"David_Hybner_Resume"}  > <BsFillCloudDownloadFill size={40} /></a>
+        <a className='icons'   href='./David.Hybner2024.pdf' download={"David_Hybner_Resume"}  > <BsFillCloudDownloadFill size={40} /></a>
         
         <h2 className='Subtitle'>Summary</h2>
         
@@ -18,8 +18,8 @@ export default function Resume() {
 
         <p className='sizeIt'>
         <span className="boldly">Full Stack Web developer</span> with a background in <span className="boldly">Computer Science</span>, having an appetite for continuous learning. Experienced collaborator and leader 
-        in <span className="boldly">fast paced</span> working environments while maintaining a high degree of <span className="boldly">accuracy</span> and expectations. <span className="boldly">Passion</span> for developing 
-        full scale web applications while working with servers, APIs, databases, and user interfaces. Known among staff as a <span className="boldly">strong leader</span> and trainer. 
+        in <span className="boldly">fast paced</span> working environments, while maintaining a high degree of <span className="boldly">accuracy</span> and expectations. Further,<span className="boldly"> passion</span> for developing 
+        full scale web applications while working closely with servers, APIs, databases, and user interfaces. Known among staff as a <span className="boldly">strong leader</span> and trainer. 
         </p>
         <h2 className='Subtitle'>Technical Skills</h2>
         <h3 className='center '>Languages:</h3><br></br>
@@ -36,14 +36,14 @@ export default function Resume() {
         
 
         <h2  className='Subtitle'>Education</h2>
-        <h3 className='center'>University of Minnesota College of Continuing and Professional Studies Coding Boot Camp</h3>
-        <p className='center list'>Full Stack Web Development Certificate </p>
         <h3 className='center'>Virginia State University</h3>
-        <p className='center list'>Bachelor of Science Degree, Computer Science Degree Candidate.</p>
+        <p className='center list'>Bachelor of Science Degree, Computer Science (May 2024).</p>
+        <h3 className='center'>University of Minnesota College of Continuing and Professional Studies Coding Boot Camp</h3>
+        <p className='center list'>Full Stack Web Development Certificate (December 2022) </p>
         <h3 className='center'>Louisiana State University Continued Education</h3>
-        <p className='center list'>AWS Cloud Practitioner Certificate </p>
+        <p className='center list'>AWS Cloud Practitioner Certificate  (April 2022)</p>
         <h3 className='center'>John Tyler Community College</h3>
-        <p className='center list'>Associates in Science Degree, General Studies, and General Education Certificate</p>
+        <p className='center list'>Associates in Science Degree, General Studies, and General Education Certificate (May 2018)</p>
         
         <h2  className='Subtitle'>Work Experience</h2>
         <h3 className='center '>Target Team Member</h3>
