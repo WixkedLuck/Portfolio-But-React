@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/About.css';
-import me from '../images/David.jpg';
+import me from '../images/Grad24.jpg';
 import { FaGithubAlt } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaCodepen } from "react-icons/fa";
