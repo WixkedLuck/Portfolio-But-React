@@ -1,11 +1,11 @@
 import React from 'react';
 import '../styles/Project.css';
-import blog from '../images/Blogger.svg';
+import blog from '../images/Workday.png';
 import Fizz from '../images/Fizz.svg';
-import Bug from '../images/SMolBytes.svg'
+import Pak from '../images/CyberPak.png';
 import Calc from '../images/Loan.svg';
 import Weather from '../images/Weather.svg';
-import Loc from '../images/android-chrome-512x512.png';
+import Loc from '../images/CyberGaurd.png';
 
 
 function Projects() {
@@ -17,32 +17,17 @@ function Projects() {
         </div>
         <div class="container text-center ">
   <div class="row row-col-3">
-  <div class="col col-style">
-      <h5>Cyberware</h5>
-      <img src={Loc} alt='Cyberware'></img>
-      <div className='p-3'>
-          <span className='smart '>Learning center for all things cyber security</span><br></br>
-       
-          </div>
-      <a className='linked'  href="https://github.com/WixkedLuck/CyberWare" target="blank" rel="noreferrer">Code</a>
-      <a className='linked' href="https://wixkedluck.github.io/CyberWare/" target="blank" rel="noreferrer">Site</a>
-      
-      <div className='pt-3'>
-      <span className='gcol'>HTML | CSS | JavaScript | JQuery | Email.js | Prism.js | Construct 3 | Local Storage |
-      </span>
-      </div>
-   
-    </div>
+ 
     <div class="col col-style">
-      <h5>SmolByte</h5>
-      <img src={Bug} alt='Small-Bytes'></img>
+      <h5>Cyber Pak Vol. 9</h5>
+      <img src={Pak} alt='Small-Bytes'></img>
       <div className='p-3'>
-      <span className='smart'>Site for team based bug tracking</span><br></br>
+      <span className='smart'>A tacklebox of topics in Cyber security (Cyber Security Bootcamp Project)</span><br></br>
       </div>
-      <a className='linked'  href="https://github.com/WixkedLuck/Feature-Tracker" target="blank" rel="noreferrer">Code</a>
-      <a className='linked' href="https://smolbytes.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
+      <a className='linked'  href="https://github.com/WixkedLuck/Cyber-Mix-Vol.-9-" target="blank" rel="noreferrer">Code</a>
+      <a className='linked' href="https://wixkedluck.github.io/Cyber-Mix-Vol.-9-/" target="blank" rel="noreferrer">Site</a>
       <div className='pt-3'>
-      <span className='gcol'>HTML | CSS | JavaScript | Moongoose | Express.js | React.js | Node.js |  
+      <span className='gcol'>HTML | CSS | JavaScript | React.js | Node.js |  
       </span>
       </div>
     </div>
@@ -61,7 +46,22 @@ function Projects() {
       </span>
       </div>
     </div>
-    
+    <div class="col col-style">
+      <h5>Cyber Gaurd</h5>
+      <img src={Loc} alt='CyberGaurdImage'></img>
+      <div className='p-3'>
+          <span className='smart '>Learning center for all things cyber security (Senior Project 2023)</span><br></br>
+       
+          </div>
+      <a className='linked'  href="https://github.com/WixkedLuck/CyberWare" target="blank" rel="noreferrer">Code</a>
+      <a className='linked' href="https://wixkedluck.github.io/CyberWare/" target="blank" rel="noreferrer">Site</a>
+      
+      <div className='pt-3'>
+      <span className='gcol'>HTML | CSS | JavaScript | JQuery | Email.js | Prism.js | Construct 3 | Local Storage |
+      </span>
+      </div>
+   
+    </div>
   </div>
 
   <div class="row row-col-3">
@@ -80,15 +80,15 @@ function Projects() {
     </div>
 
     <div class="col col-style">
-      <h5 >Blogger</h5>
+      <h5 >Workday Scheduler</h5>
       <img src={blog} alt='Blog-Site'></img>
       <div className='p-3'>
-      <span className='smart'>Blog site</span><br></br>
+      <span className='smart'>Workday Scheduler</span><br></br>
      </div>
-      <a className='linked'  href="https://github.com/WixkedLuck/MVC-Tech-Blog" target="blank" rel="noreferrer">Code</a>
-      <a className='linked' href="https://mvc-tech-blog2.herokuapp.com/" target="blank" rel="noreferrer">Site</a>
+      <a className='linked'  href="https://github.com/WixkedLuck/Work-Day-Scheduler-" target="blank" rel="noreferrer">Code</a>
+      <a className='linked' href="https://wixkedluck.github.io/Work-Day-Scheduler-/" target="blank" rel="noreferrer">Site</a>
       <div className='pt-3'>
-      <span className='gcol'>HTML | CSS | JavaScript | Handlebars.js | MVC Stack |
+      <span className='gcol'>HTML | CSS | JavaScript | JQuery | API | 
       </span>
       </div>
     </div>
